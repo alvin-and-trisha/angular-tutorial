@@ -18,3 +18,6 @@
 - Run the application 
 
   `ng serve`
+
+  generate component
+  `ng generate component home`
