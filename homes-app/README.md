@@ -24,3 +24,6 @@
 
   genearte interface
   `ng generate interface housingLocation`
+
+  create new service
+  `ng g s housing`
