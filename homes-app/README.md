@@ -21,3 +21,6 @@
 
   generate component
   `ng generate component home`
+
+  genearte interface
+  `ng generate interface housingLocation`
